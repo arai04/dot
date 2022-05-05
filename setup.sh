@@ -12,5 +12,3 @@ sudo apt install -y tmux
 git clone https://github.com/arai04/dot
 chmod +x ~/dot/install.sh
 ~/dot/install.sh
-
-
